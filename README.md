@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wiedmaier
-- 👀 I’m interested in developping tools for Revit with Python and pyRevit 
-- 🌱 I’m currently learning enerything I need for my projects.
+- 👀 I’m interested in developping tools for Revit as plug-in in C#
+- 🌱 I’m currently learning everything I need for my projects.
 - 💞️ I’m looking to collaborate on getting better planet for our childrens !
 
 <!---
